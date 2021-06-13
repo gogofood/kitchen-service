@@ -1,4 +1,4 @@
-name: Service CI
+name: CI
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: The Service Build
+    name: Build
     runs-on: ubuntu-latest
     strategy:
       matrix:

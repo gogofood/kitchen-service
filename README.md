@@ -1,6 +1,7 @@
 # Kitchen Service 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+![](https://github.com/gogofood/kitchen-service/actions/workflows/nest.yml/badge.svg)
 
 ## Description
 
